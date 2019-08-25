@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="2" total="3" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="ovenstory" duration-ms="26487" started-at="2019-08-25T13:06:40Z" finished-at="2019-08-25T13:07:07Z">
+    <groups>
+    </groups>
+    <test name="ovenstoryRegression" duration-ms="26487" started-at="2019-08-25T13:06:40Z" finished-at="2019-08-25T13:07:07Z">
+      <class name="com.automate.automation.testcase.ovenstory.OvenStoryTestcase">
+        <test-method status="PASS" signature="doCleanUpActivityandLoadConfigFile()[pri:0, instance:com.automate.automation.testcase.ovenstory.OvenStoryTestcase@2096442d]" name="doCleanUpActivityandLoadConfigFile" is-config="true" duration-ms="806" started-at="2019-08-25T18:36:40Z" finished-at="2019-08-25T18:36:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doCleanUpActivityandLoadConfigFile -->
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:com.automate.automation.testcase.ovenstory.OvenStoryTestcase@2096442d]" name="TestCase1" duration-ms="26465" started-at="2019-08-25T18:36:40Z" finished-at="2019-08-25T18:37:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="activityAfterSuite()[pri:0, instance:com.automate.automation.testcase.ovenstory.OvenStoryTestcase@2096442d]" name="activityAfterSuite" is-config="true" duration-ms="1" started-at="2019-08-25T18:37:07Z" finished-at="2019-08-25T18:37:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activityAfterSuite -->
+      </class> <!-- com.automate.automation.testcase.ovenstory.OvenStoryTestcase -->
+    </test> <!-- ovenstoryRegression -->
+  </suite> <!-- ovenstory -->
+</testng-results>

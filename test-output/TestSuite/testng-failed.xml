@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="3" guice-stage="DEVELOPMENT" name="Failed suite [TestSuite]">
+  <parameter name="searchKey" value="India"/>
+  <test name="testGuru(failed)">
+    <parameter name="searchKey" value="UK"/>
+    <classes>
+      <class name="com.automate.automation.testcase.linkedin.LinkedInJobTestcase">
+        <methods>
+          <include name="activityAfterSuite"/>
+          <include name="quitBrowser"/>
+          <include name="doCleanUpActivityandLoadConfigFile"/>
+          <include name="Shubham34"/>
+        </methods>
+      </class> <!-- com.automate.automation.testcase.linkedin.LinkedInJobTestcase -->
+    </classes>
+  </test> <!-- testGuru(failed) -->
+</suite> <!-- Failed suite [TestSuite] -->

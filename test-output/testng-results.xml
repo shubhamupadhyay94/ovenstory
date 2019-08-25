@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="96378" started-at="2019-08-25T13:13:05Z" finished-at="2019-08-25T13:14:41Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="96378" started-at="2019-08-25T13:13:05Z" finished-at="2019-08-25T13:14:41Z">
+      <class name="com.automate.automation.testcase.ovenstory.OvenStoryTestcase">
+        <test-method status="PASS" signature="doCleanUpActivityandLoadConfigFile()[pri:0, instance:com.automate.automation.testcase.ovenstory.OvenStoryTestcase@5622fdf]" name="doCleanUpActivityandLoadConfigFile" is-config="true" duration-ms="805" started-at="2019-08-25T18:43:04Z" finished-at="2019-08-25T18:43:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- doCleanUpActivityandLoadConfigFile -->
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:com.automate.automation.testcase.ovenstory.OvenStoryTestcase@5622fdf]" name="TestCase1" duration-ms="31056" started-at="2019-08-25T18:43:05Z" finished-at="2019-08-25T18:43:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:com.automate.automation.testcase.ovenstory.OvenStoryTestcase@5622fdf]" name="TestCase2" duration-ms="33227" started-at="2019-08-25T18:43:36Z" finished-at="2019-08-25T18:44:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method status="PASS" signature="TestCase3()[pri:0, instance:com.automate.automation.testcase.ovenstory.OvenStoryTestcase@5622fdf]" name="TestCase3" duration-ms="32056" started-at="2019-08-25T18:44:09Z" finished-at="2019-08-25T18:44:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method status="PASS" signature="activityAfterSuite()[pri:0, instance:com.automate.automation.testcase.ovenstory.OvenStoryTestcase@5622fdf]" name="activityAfterSuite" is-config="true" duration-ms="1" started-at="2019-08-25T18:44:41Z" finished-at="2019-08-25T18:44:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- activityAfterSuite -->
+      </class> <!-- com.automate.automation.testcase.ovenstory.OvenStoryTestcase -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

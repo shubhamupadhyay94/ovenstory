@@ -1,0 +1,199 @@
+2019-08-25 18:43:04 INFO  ConfigReader:56 - browser ______Chrome
+2019-08-25 18:43:04 INFO  ConfigReader:56 - url ______https://www.ovenstory.in/
+2019-08-25 18:43:04 INFO  ConfigReader:56 - Screenshot ______output\screenshot
+2019-08-25 18:43:04 INFO  ConfigReader:56 - chromePath ______driver\chromedriver.exe
+2019-08-25 18:43:04 INFO  ConfigReader:56 - sheetName ______Linkedin
+2019-08-25 18:43:04 INFO  ConfigReader:56 - deleteDirectory ______output
+2019-08-25 18:43:04 INFO  ConfigReader:56 - DEFAULT_WAIT ______10;
+2019-08-25 18:43:04 INFO  ExcelUtility:89 - testuser1testuser
+2019-08-25 18:43:05 INFO  ExcelUtility:141 - Key Value
+2019-08-25 18:43:05 INFO  ExcelUtility:141 - DeliveryLocation1 Bhandup West
+2019-08-25 18:43:05 INFO  ExcelUtility:141 - DeliveryLocation2 Powai 
+2019-08-25 18:43:05 INFO  ExcelUtility:141 - itemName BOGO Veg Pizza Combo
+2019-08-25 18:43:05 INFO  ExcelUtility:141 - DifferentVerietyOfItem Spanish Sunshine
+2019-08-25 18:43:05 INFO  ExcelUtility:141 - ItemBase Chipotle Cheese
+2019-08-25 18:43:05 INFO  OvenStoryTestcase:41 - Before suite method execution ends. Config files are loaded.
+2019-08-25 18:43:05 INFO  ConfigReader:56 - browser ______Chrome
+2019-08-25 18:43:05 INFO  ConfigReader:56 - url ______https://www.ovenstory.in/
+2019-08-25 18:43:05 INFO  ConfigReader:56 - Screenshot ______output\screenshot
+2019-08-25 18:43:05 INFO  ConfigReader:56 - chromePath ______driver\chromedriver.exe
+2019-08-25 18:43:05 INFO  ConfigReader:56 - sheetName ______Linkedin
+2019-08-25 18:43:05 INFO  ConfigReader:56 - deleteDirectory ______output
+2019-08-25 18:43:05 INFO  ConfigReader:56 - DEFAULT_WAIT ______10;
+2019-08-25 18:43:05 INFO  DriverManager:31 - E:\OvenStory\OvenStory\driver\chromedriver.exebroser name Chrome
+2019-08-25 18:43:15 INFO  AddItem:15 - addItemAndCheckout floe execution started.
+2019-08-25 18:43:15 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:15 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:15 INFO  UIActions:257 - Elememnt is Enabled on UI.By.id: wzrk-cancel
+2019-08-25 18:43:15 INFO  UIActions:40 - Clicked on element . Element is By.id: wzrk-cancel
+2019-08-25 18:43:15 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:15 INFO  FileUtility:27 - Directory not exists, creating now
+2019-08-25 18:43:15 INFO  FileUtility:35 - Successfully created new directory : Directory name is  output\screenshot\TestCase1
+2019-08-25 18:43:15 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase1\1566738795365_TestCase1_Before entering location
+2019-08-25 18:43:16 INFO  UIActions:288 - Text is 
+2019-08-25 18:43:16 INFO  UIActions:331 - Entered value is 
+2019-08-25 18:43:19 INFO  IOvenHomePageImpl:34 - Entered location is 
+2019-08-25 18:43:19 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:19 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase1\1566738799118_TestCase1_After entering location
+2019-08-25 18:43:23 INFO  UIActions:288 - Text is Bhandup West, Lalbahadur Shastri Road, Bhandup, Valmik Nagar, Bhandup West, Mumbai, Maharashtra, India
+2019-08-25 18:43:23 INFO  IOvenHomePageImpl:68 - Location name on home page isBhandup West, Lalbahadur Shastri Road, Bhandup, Valmik Nagar, Bhandup West, Mumbai, Maharashtra, India
+2019-08-25 18:43:23 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:24 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase1\1566738803943_TestCase1_home page
+2019-08-25 18:43:26 INFO  IOvenHomePageImpl:78 - Right location is selected
+2019-08-25 18:43:26 INFO  UIActions:235 - Scrolling window by 200
+2019-08-25 18:43:26 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:26 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //h2[contains(text(),'BOGO Veg Pizza Combo')]/../..//a[@id='addProductCombo']
+2019-08-25 18:43:27 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //h2[contains(text(),'BOGO Veg Pizza Combo')]/../..//a[@id='addProductCombo']
+2019-08-25 18:43:29 INFO  IOvenHomePageImpl:94 - Clicked on add item.
+2019-08-25 18:43:29 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:29 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase1\1566738809577_TestCase1_After clicking on add button
+2019-08-25 18:43:30 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:30 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:30 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase1\1566738810036_TestCase1_HEADER_CUSTOMIZATION_WINDOW
+2019-08-25 18:43:30 INFO  IOvenHomePageImpl:147 - Customization window is open.
+2019-08-25 18:43:30 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:30 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //label[contains(text(),'Spanish Sunshine')]/../..//span[contains(@class,'radioUnselected ')]
+2019-08-25 18:43:30 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //label[contains(text(),'Spanish Sunshine')]/../..//span[contains(@class,'radioUnselected ')]
+2019-08-25 18:43:30 INFO  IOvenHomePageImpl:114 - Clicked on select any item based on name.Spanish Sunshine
+2019-08-25 18:43:30 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:31 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase1\1566738810609_TestCase1_select any one item
+2019-08-25 18:43:31 INFO  UIActions:206 - Elememnt is Selected .By.xpath: //label[contains(text(),'Spanish Sunshine')]/../..//input[contains(@id,'product_')]
+2019-08-25 18:43:31 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:31 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //a[contains(@class,'changeCustomisationSetBtn')]
+2019-08-25 18:43:31 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //a[contains(@class,'changeCustomisationSetBtn')]
+2019-08-25 18:43:31 INFO  IOvenHomePageImpl:154 - Clicked on Next button.
+2019-08-25 18:43:32 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:32 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase1\1566738812233_TestCase1_BUTTON_NEXT
+2019-08-25 18:43:32 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:32 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //label[contains(text(),'Chipotle Cheese')]/../..//..//span[contains(@class,'radioUnselected')]
+2019-08-25 18:43:32 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //label[contains(text(),'Chipotle Cheese')]/../..//..//span[contains(@class,'radioUnselected')]
+2019-08-25 18:43:32 INFO  IOvenHomePageImpl:136 - Selected base is .Chipotle Cheese
+2019-08-25 18:43:32 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:33 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase1\1566738812773_TestCase1_base any one base
+2019-08-25 18:43:33 INFO  UIActions:206 - Elememnt is Selected .By.xpath: //label[contains(text(),'Chipotle Cheese')]/../../..//input[@name='baseSelect']
+2019-08-25 18:43:33 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:33 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //a[contains(@class,'changeCustomisationSetBtn')]
+2019-08-25 18:43:33 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //a[contains(@class,'changeCustomisationSetBtn')]
+2019-08-25 18:43:33 INFO  IOvenHomePageImpl:154 - Clicked on Next button.
+2019-08-25 18:43:34 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:35 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase1\1566738814670_TestCase1_BUTTON_NEXT
+2019-08-25 18:43:35 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:35 INFO  UIActions:257 - Elememnt is Enabled on UI.By.id: checkoutBtn
+2019-08-25 18:43:35 INFO  UIActions:40 - Clicked on element . Element is By.id: checkoutBtn
+2019-08-25 18:43:35 INFO  IOvenHomePageImpl:162 - Clicked on checkout button.
+2019-08-25 18:43:35 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:35 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase1\1566738815417_TestCase1_checkout button
+2019-08-25 18:43:35 INFO  AddItem:64 - addItemAndCheckout flow executed sucessfully.
+2019-08-25 18:43:36 INFO  UIActions:393 - Closed driver for testcaseTestCase1
+2019-08-25 18:43:36 INFO  DriverManager:31 - E:\OvenStory\OvenStory\driver\chromedriver.exebroser name Chrome
+2019-08-25 18:43:45 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:45 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:45 INFO  UIActions:257 - Elememnt is Enabled on UI.By.id: wzrk-cancel
+2019-08-25 18:43:45 INFO  UIActions:40 - Clicked on element . Element is By.id: wzrk-cancel
+2019-08-25 18:43:45 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:45 INFO  FileUtility:27 - Directory not exists, creating now
+2019-08-25 18:43:45 INFO  FileUtility:35 - Successfully created new directory : Directory name is  output\screenshot\TestCase2
+2019-08-25 18:43:46 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738825622_TestCase2_Before entering location
+2019-08-25 18:43:46 INFO  UIActions:288 - Text is 
+2019-08-25 18:43:46 INFO  UIActions:331 - Entered value is 
+2019-08-25 18:43:49 INFO  IOvenHomePageImpl:34 - Entered location is 
+2019-08-25 18:43:49 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:49 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738829310_TestCase2_After entering location
+2019-08-25 18:43:52 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:52 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //a[@class='headerIcon']
+2019-08-25 18:43:53 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //a[@class='headerIcon']
+2019-08-25 18:43:54 INFO  IOvenHomePageImpl:182 - Clicked on side menu bar
+2019-08-25 18:43:54 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:55 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738834438_TestCase2_SIDE_MENU_BAR
+2019-08-25 18:43:55 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:55 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //li[@id='sb_col']//a
+2019-08-25 18:43:55 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //li[@id='sb_col']//a
+2019-08-25 18:43:56 INFO  IOvenHomePageImpl:190 - Clicked on menu option
+2019-08-25 18:43:56 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:56 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738836219_TestCase2_LINK_SIDE_MENU
+2019-08-25 18:43:56 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:56 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:57 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738836771_TestCase2_HEADER_LOCATION_NAME
+2019-08-25 18:43:57 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:57 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //a[@class='headerIcon']
+2019-08-25 18:43:57 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //a[@class='headerIcon']
+2019-08-25 18:43:58 INFO  IOvenHomePageImpl:182 - Clicked on side menu bar
+2019-08-25 18:43:58 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:43:59 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738838434_TestCase2_SIDE_MENU_BAR
+2019-08-25 18:43:59 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:43:59 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //li[@id='sb_po']//a
+2019-08-25 18:43:59 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //li[@id='sb_po']//a
+2019-08-25 18:44:00 INFO  IOvenHomePageImpl:198 - Clicked on party order.
+2019-08-25 18:44:00 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:00 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738840193_TestCase2_LINK_MENU_PARTY_PRDER
+2019-08-25 18:44:00 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:44:00 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:01 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738840829_TestCase2_LINK_REQUEST_A_CALL_BACK
+2019-08-25 18:44:01 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:44:01 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //a[@class='headerIcon']
+2019-08-25 18:44:01 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //a[@class='headerIcon']
+2019-08-25 18:44:02 INFO  IOvenHomePageImpl:182 - Clicked on side menu bar
+2019-08-25 18:44:02 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:03 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738842569_TestCase2_SIDE_MENU_BAR
+2019-08-25 18:44:03 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:44:03 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //li[@id='sb_tr']//a
+2019-08-25 18:44:03 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //li[@id='sb_tr']//a
+2019-08-25 18:44:04 INFO  IOvenHomePageImpl:206 - Clicked on terms menu option.
+2019-08-25 18:44:04 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:04 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738844438_TestCase2_LINK_MENU_TERMS
+2019-08-25 18:44:04 INFO  UIActions:288 - Text is Oven Story Service Use
+2019-08-25 18:44:04 INFO  IOvenHomePageImpl:236 - Text present on header is Oven Story Service Use
+2019-08-25 18:44:04 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:05 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738844807_TestCase2_HEADER_OVEN_STORY_SERVICE
+2019-08-25 18:44:05 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:44:05 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //a[@class='headerIcon']
+2019-08-25 18:44:05 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //a[@class='headerIcon']
+2019-08-25 18:44:06 INFO  IOvenHomePageImpl:182 - Clicked on side menu bar
+2019-08-25 18:44:06 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:06 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738846275_TestCase2_SIDE_MENU_BAR
+2019-08-25 18:44:06 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:44:06 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //li[@id='sb_pr']//a
+2019-08-25 18:44:06 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //li[@id='sb_pr']//a
+2019-08-25 18:44:06 INFO  IOvenHomePageImpl:213 - Clicked on terms menu option.
+2019-08-25 18:44:06 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:07 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738846842_TestCase2_LINK_MENU_TERMS
+2019-08-25 18:44:07 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:08 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738847638_TestCase2_HEADER_OVEN_STORY_SERVICE
+2019-08-25 18:44:08 INFO  UIActions:288 - Text is Privacy Policy
+2019-08-25 18:44:08 INFO  IOvenHomePageImpl:236 - Text present on header is Privacy Policy
+2019-08-25 18:44:08 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:09 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase2\1566738848380_TestCase2_HEADER_OVEN_STORY_SERVICE
+2019-08-25 18:44:09 INFO  UIActions:393 - Closed driver for testcaseTestCase2
+2019-08-25 18:44:09 INFO  DriverManager:31 - E:\OvenStory\OvenStory\driver\chromedriver.exebroser name Chrome
+2019-08-25 18:44:18 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:44:18 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:44:18 INFO  UIActions:257 - Elememnt is Enabled on UI.By.id: wzrk-cancel
+2019-08-25 18:44:18 INFO  UIActions:40 - Clicked on element . Element is By.id: wzrk-cancel
+2019-08-25 18:44:18 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:18 INFO  FileUtility:27 - Directory not exists, creating now
+2019-08-25 18:44:18 INFO  FileUtility:35 - Successfully created new directory : Directory name is  output\screenshot\TestCase3
+2019-08-25 18:44:19 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase3\1566738858647_TestCase3_Before entering location
+2019-08-25 18:44:19 INFO  UIActions:288 - Text is 
+2019-08-25 18:44:19 INFO  UIActions:331 - Entered value is 
+2019-08-25 18:44:22 INFO  IOvenHomePageImpl:34 - Entered location is 
+2019-08-25 18:44:22 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:22 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase3\1566738862334_TestCase3_After entering location
+2019-08-25 18:44:27 INFO  UIActions:175 - Elememnt is displayed on UI.
+2019-08-25 18:44:27 INFO  UIActions:257 - Elememnt is Enabled on UI.By.xpath: //div[@class='locationHeader']//span[@class='locationNameHeader']
+2019-08-25 18:44:27 INFO  UIActions:40 - Clicked on element . Element is By.xpath: //div[@class='locationHeader']//span[@class='locationNameHeader']
+2019-08-25 18:44:27 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:28 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase3\1566738867916_TestCase3_home page
+2019-08-25 18:44:30 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:30 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase3\1566738870438_TestCase3_Before entering location
+2019-08-25 18:44:31 INFO  UIActions:288 - Text is 
+2019-08-25 18:44:31 INFO  UIActions:331 - Entered value is 
+2019-08-25 18:44:34 INFO  IOvenHomePageImpl:34 - Entered location is 
+2019-08-25 18:44:34 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:34 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase3\1566738874013_TestCase3_After entering location
+2019-08-25 18:44:38 INFO  UIActions:288 - Text is Powai Police Station, Rambaug, Chandivali, Powai, Mumbai, Maharashtra, India
+2019-08-25 18:44:38 INFO  IOvenHomePageImpl:68 - Location name on home page isPowai Police Station, Rambaug, Chandivali, Powai, Mumbai, Maharashtra, India
+2019-08-25 18:44:38 INFO  Screenshot:29 - Directory path is output\screenshot
+2019-08-25 18:44:39 INFO  FileUtility:53 - Successfully created new file: output\screenshot\TestCase3\1566738878618_TestCase3_home page
+2019-08-25 18:44:41 INFO  IOvenHomePageImpl:78 - Right location is selected
+2019-08-25 18:44:41 INFO  UIActions:393 - Closed driver for testcaseTestCase3
+2019-08-25 18:44:41 INFO  OvenStoryTestcase:51 - Work in progress..

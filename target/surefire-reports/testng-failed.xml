@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [ovenstory]">
+  <test name="ovenstoryRegression(failed)">
+    <classes>
+      <class name="com.automate.automation.testcase.ovenstory.OvenStoryTestcase">
+        <methods>
+          <include name="TestCase3"/>
+          <include name="activityAfterSuite"/>
+          <include name="doCleanUpActivityandLoadConfigFile"/>
+        </methods>
+      </class> <!-- com.automate.automation.testcase.ovenstory.OvenStoryTestcase -->
+    </classes>
+  </test> <!-- ovenstoryRegression(failed) -->
+</suite> <!-- Failed suite [ovenstory] -->
