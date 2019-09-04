@@ -1,4 +1,0 @@
-# Created at 2019-08-25T17:37:00.000
-Boot Manifest-JAR contains absolute paths in classpath 'E:\OvenStory\OvenStory\target\test-classes'
-Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
-

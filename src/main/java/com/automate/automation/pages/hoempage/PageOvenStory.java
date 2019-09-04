@@ -2,8 +2,6 @@ package com.automate.automation.pages.hoempage;
 
 import org.openqa.selenium.WebDriver;
 import com.automate.framework.exception.UIActionsException;
-import com.automate.framework.screenshot.Screenshot;
-import com.automate.framework.uiaction.UIActions;
 
 public class PageOvenStory {
 

@@ -1,6 +1,5 @@
 package com.automate.automation.pages.hoempage;
 
-import org.apache.commons.math3.analysis.interpolation.UnivariateInterpolator;
 import org.apache.log4j.Logger;
 import org.openqa.selenium.By;
 import org.openqa.selenium.Keys;
@@ -9,13 +8,9 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.automate.automation.constants.TestDataConstant;
 import com.automate.framework.exception.UIActionsException;
 import com.automate.framework.screenshot.Screenshot;
 import com.automate.framework.uiaction.UIActions;
-import com.sun.xml.internal.ws.wsdl.ActionBasedOperationSignature;
-
-import sun.java2d.pipe.hw.AccelDeviceEventListener;
 
 public class IOvenHomePageImpl implements IOvenHomePage {
 

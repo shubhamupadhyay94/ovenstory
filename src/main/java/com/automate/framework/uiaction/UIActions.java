@@ -1,9 +1,6 @@
 package com.automate.framework.uiaction;
 
-import java.security.NoSuchAlgorithmException;
 import java.util.NoSuchElementException;
-
-import javax.sql.rowset.WebRowSet;
 
 import org.apache.log4j.Logger;
 import org.openqa.selenium.Alert;
@@ -16,11 +13,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
-import com.automate.framework.config.ConfigReader;
 import com.automate.framework.exception.UIActionsException;
-import com.sun.corba.se.spi.orbutil.fsm.Action;
-
-import sun.java2d.pipe.hw.AccelDeviceEventListener;
 
 public class UIActions {
 	static Logger logger = Logger.getLogger(UIActions.class);
